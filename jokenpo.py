@@ -1,5 +1,3 @@
-#jokenpo
-
 import random
 
 class jokenpo:
